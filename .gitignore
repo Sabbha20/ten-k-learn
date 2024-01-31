@@ -1,0 +1,7 @@
+.tenv/
+Resources/
+.tenv/*.*
+Resources/*.*
+.ipynb_checkpoints/*.*
+.ipynb_checkpoints/
+desktop.ini
