@@ -6,3 +6,5 @@ Resources/*.*
 .ipynb_checkpoints/
 desktop.ini
 .DS_Store
+.venv/
+.env
