@@ -7,4 +7,5 @@ scikit-learn
 numpy
 seaborn
 tensorflow
-
+keras
+pydot
